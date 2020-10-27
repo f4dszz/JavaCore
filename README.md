@@ -1,1 +1,2 @@
 # JavaCore
+These files or projects were about Spring Security and Spring Netflix Eureka, this was because the most recent projecrt I did was about a update and optimize an application, or let's say software, to reduce redundant and not only build a more efficient and cleaner platform, but also make a new way to provide services to client, I did the optimized with a bunch of teammates, and this was part of the work I did.
